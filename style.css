@@ -1,0 +1,19 @@
+body {
+    background-color: #222;
+    color: white;
+}
+
+.list-group-item {
+    background-color: #333;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.list-group-item i {
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.list-group-item i.text-warning {
+    color: gold;
+}
